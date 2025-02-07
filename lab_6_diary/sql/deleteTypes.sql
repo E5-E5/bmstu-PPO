@@ -1,0 +1,10 @@
+DROP TYPE IF EXISTS StudentAssessmentType;
+DROP TYPE IF EXISTS ClassNumberType;
+DROP TYPE IF EXISTS GroupScheduleType;
+DROP TYPE IF EXISTS GroupStudentType;
+DROP TYPE IF EXISTS GenderType;
+DROP TYPE IF EXISTS CountGroupType;
+DROP TYPE IF EXISTS DayOfWeekType;
+
+
+

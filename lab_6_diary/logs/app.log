@@ -1,0 +1,41 @@
+23:41:01.707 [main] WARN  com.example.service.StudentService - Student was sign in. ID student 123123
+23:41:01.758 [main] ERROR com.example.service.StudentService - Error while sign in
+com.example.ConnectBDException: Не удалось установить подключение к базе данных.
+	at com.example.service.StudentService.SingInStudent(studentService.kt:189) [interface-1.0-SNAPSHOT.jar:?]
+	at com.example.ConsoleMenu.sing_in_student(menu.kt:246) [interface-1.0-SNAPSHOT.jar:?]
+	at com.example.ConsoleMenu.access$sing_in_student(menu.kt:17) [interface-1.0-SNAPSHOT.jar:?]
+	at com.example.ConsoleMenu$menu_authorization$menuFunctions$2.invoke(menu.kt:50) [interface-1.0-SNAPSHOT.jar:?]
+	at com.example.ConsoleMenu$menu_authorization$menuFunctions$2.invoke(menu.kt:50) [interface-1.0-SNAPSHOT.jar:?]
+	at com.example.ConsoleMenu.menu_authorization(menu.kt:68) [interface-1.0-SNAPSHOT.jar:?]
+	at MainKt.main(Main.kt:30) [interface-1.0-SNAPSHOT.jar:?]
+	at MainKt.main(Main.kt) [interface-1.0-SNAPSHOT.jar:?]
+23:41:13.758 [main] ERROR com.example.service.StudentService - Error while sign in
+com.example.ConnectBDException: Не удалось установить подключение к базе данных.
+	at com.example.service.StudentService.SingInStudent(studentService.kt:189) [interface-1.0-SNAPSHOT.jar:?]
+	at com.example.ConsoleMenu.sing_in_student(menu.kt:246) [interface-1.0-SNAPSHOT.jar:?]
+	at com.example.ConsoleMenu.access$sing_in_student(menu.kt:17) [interface-1.0-SNAPSHOT.jar:?]
+	at com.example.ConsoleMenu$menu_authorization$menuFunctions$2.invoke(menu.kt:50) [interface-1.0-SNAPSHOT.jar:?]
+	at com.example.ConsoleMenu$menu_authorization$menuFunctions$2.invoke(menu.kt:50) [interface-1.0-SNAPSHOT.jar:?]
+	at com.example.ConsoleMenu.menu_authorization(menu.kt:68) [interface-1.0-SNAPSHOT.jar:?]
+	at MainKt.main(Main.kt:30) [interface-1.0-SNAPSHOT.jar:?]
+	at MainKt.main(Main.kt) [interface-1.0-SNAPSHOT.jar:?]
+23:41:17.507 [main] ERROR com.example.service.StudentService - Error while sign in
+com.example.ConnectBDException: Не удалось установить подключение к базе данных.
+	at com.example.service.StudentService.SingInStudent(studentService.kt:189) [interface-1.0-SNAPSHOT.jar:?]
+	at com.example.ConsoleMenu.sing_in_student(menu.kt:246) [interface-1.0-SNAPSHOT.jar:?]
+	at com.example.ConsoleMenu.access$sing_in_student(menu.kt:17) [interface-1.0-SNAPSHOT.jar:?]
+	at com.example.ConsoleMenu$menu_authorization$menuFunctions$2.invoke(menu.kt:50) [interface-1.0-SNAPSHOT.jar:?]
+	at com.example.ConsoleMenu$menu_authorization$menuFunctions$2.invoke(menu.kt:50) [interface-1.0-SNAPSHOT.jar:?]
+	at com.example.ConsoleMenu.menu_authorization(menu.kt:68) [interface-1.0-SNAPSHOT.jar:?]
+	at MainKt.main(Main.kt:30) [interface-1.0-SNAPSHOT.jar:?]
+	at MainKt.main(Main.kt) [interface-1.0-SNAPSHOT.jar:?]
+00:48:05.418 [main] ERROR com.example.service.StudentService - Error while sign in
+com.example.ConnectBDException: Не удалось установить подключение к базе данных.
+	at com.example.service.StudentService.SingInStudent(studentService.kt:189) [interface-1.0-SNAPSHOT.jar:?]
+	at com.example.ConsoleMenu.sing_in_student(menu.kt:246) [interface-1.0-SNAPSHOT.jar:?]
+	at com.example.ConsoleMenu.access$sing_in_student(menu.kt:17) [interface-1.0-SNAPSHOT.jar:?]
+	at com.example.ConsoleMenu$menu_authorization$menuFunctions$2.invoke(menu.kt:50) [interface-1.0-SNAPSHOT.jar:?]
+	at com.example.ConsoleMenu$menu_authorization$menuFunctions$2.invoke(menu.kt:50) [interface-1.0-SNAPSHOT.jar:?]
+	at com.example.ConsoleMenu.menu_authorization(menu.kt:68) [interface-1.0-SNAPSHOT.jar:?]
+	at MainKt.main(Main.kt:30) [interface-1.0-SNAPSHOT.jar:?]
+	at MainKt.main(Main.kt) [interface-1.0-SNAPSHOT.jar:?]
